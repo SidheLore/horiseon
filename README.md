@@ -11,5 +11,5 @@ The original code for the Horiseon website has been refactored so that the title
 https://sidhelore.github.io/horiseon/
 
 ## Credit
-The original files for the Horiseon website were obtained through the Vanderbilt University Coding Bootcamp and cloned from Xandromus' urban-octo-telegram repository.
+The original files for the Horiseon website were obtained through the Vanderbilt University Coding Bootcamp and cloned from Xander Rapstine's urban-octo-telegram repository.
 The code was refactored by Jessica Hoffman.
